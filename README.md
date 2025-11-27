@@ -1,6 +1,6 @@
 # Charcoal Theme
 
-A sleek, dark theme for those who always keep their screen brightness very low
+A sleek, dark theme for the [Zed editor](https://zed.dev), designed for those who always keep their screen brightness very low
 
 - gray color without blue-ish/green-ish/red-ish tints
 - simple, unfiltered colors for syntax highlighting
