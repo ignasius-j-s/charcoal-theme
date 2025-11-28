@@ -64,8 +64,8 @@
                 "pane.focused_border": "#c9c9c9",
                 "pane_group.border": null,
 
-                "scrollbar.thumb.background": "#ffffff35",
-                "scrollbar.thumb.hover_background": "#ffffff55",
+                "scrollbar.thumb.background": "#79797980",
+                "scrollbar.thumb.hover_background": "#797979bf",
                 "scrollbar.thumb.border": "#ffffff00",
                 "scrollbar.track.background": "#ffffff00",
                 "scrollbar.track.border": "#ffffff00",
@@ -198,6 +198,11 @@
                         "cursor": "#ffffff",
                         "selection": "#cccccc37",
                         "background": "#ffffff"
+                    },
+                    {
+                        "cursor": "#ffbe99",
+                        "selection": "#ffbe9937",
+                        "background": "#ffbe99"
                     },
                     {
                         "cursor": "#ff99b2",
