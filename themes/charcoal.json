@@ -122,7 +122,7 @@
                 "version_control.deleted": "#ff8080",
                 "version_control.modified": "#ffff80",
                 "version_control.renamed": "#80c0ff",
-                "version_control.conflict": "#ffbf80",
+                "version_control.conflict": "#ffc080",
                 "version_control.conflict_marker.ours": "#80ff801a",
                 "version_control.conflict_marker.theirs": "#80c0ff1a",
 
@@ -146,6 +146,10 @@
                 "success.border": "#80ff80",
                 "success.background": "#303030",
 
+                "conflict": "#ffc080",
+                "conflict.border": "#ffc080",
+                "conflict.background": "#303030",
+
                 "hidden": "#808080",
                 "hidden.border": "#808080",
                 "hidden.background": "#303030",
@@ -153,10 +157,6 @@
                 "ignored": "#ababab",
                 "ignored.border": "#ababab",
                 "ignored.background": "#303030",
-
-                "conflict": "#ffc080",
-                "conflict.border": "#ffc080",
-                "conflict.background": "#303030",
 
                 "created": "#bdffbd",
                 "created.border": "#bdffbd",
@@ -512,7 +512,7 @@
                         "font_weight": null
                     },
                     "text.literal": {
-                        "color": "#e6e6e6",
+                        "color": "#ffaf8a",
                         "font_style": null,
                         "font_weight": null
                     },
