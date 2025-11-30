@@ -52,7 +52,7 @@
                 "tab.inactive_background": "#303030",
                 "tab_bar.background": "#292929",
                 "toolbar.background": "#1a1a1a",
-                "search.match_background": "#4a4a4a",
+                "search.match_background": "#81bfff",
 
                 "panel.background": "#202020",
                 "panel.focused_border": "#7f7f7f",
@@ -81,9 +81,9 @@
                 "editor.invisible": "#7f7f7f",
                 "editor.wrap_guide": "#3f3f3f",
                 "editor.active_wrap_guide": "#7f7f7f",
-                "editor.document_highlight.bracket_background": "#4a4a4a",
-                "editor.document_highlight.read_background": "#303030",
-                "editor.document_highlight.write_background": "#303030",
+                "editor.document_highlight.bracket_background": "#646464",
+                "editor.document_highlight.read_background": "#ffffff20",
+                "editor.document_highlight.write_background": "#ffffff20",
                 "editor.indent_guide": "#3f3f3f",
                 "editor.indent_guide_active": "#7f7f7f",
 
