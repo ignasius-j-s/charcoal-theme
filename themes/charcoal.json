@@ -403,6 +403,11 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "property.json_key": {
+                        "color": "#81bfff",
+                        "font_style": null,
+                        "font_weight": null
+                    },
 
                     "parameter": {
                         "color": "#e6e6e6",
