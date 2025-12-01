@@ -81,9 +81,9 @@
                 "editor.invisible": "#7f7f7f",
                 "editor.wrap_guide": "#3f3f3f",
                 "editor.active_wrap_guide": "#7f7f7f",
-                "editor.document_highlight.bracket_background": "#646464",
-                "editor.document_highlight.read_background": "#ffffff20",
-                "editor.document_highlight.write_background": "#ffffff20",
+                "editor.document_highlight.bracket_background": "#5c5c5c",
+                "editor.document_highlight.read_background": "#3f3f3f",
+                "editor.document_highlight.write_background": "#3f3f3f",
                 "editor.indent_guide": "#3f3f3f",
                 "editor.indent_guide_active": "#7f7f7f",
 
