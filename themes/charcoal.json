@@ -184,12 +184,12 @@
 
                 "accents": [
                     "#ffaf8a",
+                    "#93e7ec",
                     "#95f495",
                     "#daa4f9",
                     "#81bfff",
                     "#f98693",
                     "#e2cb9c",
-                    "#82e8ff",
                     "#eeee91"
                 ],
 
@@ -299,7 +299,7 @@
                         "font_weight": null
                     },
                     "string.escape": {
-                        "color": "#82e8ff",
+                        "color": "#93e7ec",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -325,7 +325,7 @@
                     },
 
                     "character": {
-                        "color": "#82e8ff",
+                        "color": "#93e7ec",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -371,6 +371,11 @@
                     },
                     "type.interface": {
                         "color": "#daa4f9",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "type.unit": {
+                        "color": "#f98693",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -483,7 +488,7 @@
                     },
 
                     "tag": {
-                        "color": "#81bfff",
+                        "color": "#93e7ec",
                         "font_style": null,
                         "font_weight": null
                     },
