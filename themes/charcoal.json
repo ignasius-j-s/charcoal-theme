@@ -183,14 +183,14 @@
                 "predictive.background": "#303030",
 
                 "accents": [
-                    "#ffaf8a",
-                    "#8fefd7",
-                    "#95f495",
-                    "#daa4f9",
-                    "#81bfff",
                     "#f98693",
+                    "#daa4f9",
+                    "#ffaf8a",
+                    "#81bfff",
+                    "#eeee91",
+                    "#95f495",
                     "#e2cb9c",
-                    "#eeee91"
+                    "#8fefd7"
                 ],
 
                 "players": [
