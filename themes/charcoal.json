@@ -184,7 +184,7 @@
 
                 "accents": [
                     "#ffaf8a",
-                    "#93e7ec",
+                    "#8fefd7",
                     "#95f495",
                     "#daa4f9",
                     "#81bfff",
@@ -299,7 +299,7 @@
                         "font_weight": null
                     },
                     "string.escape": {
-                        "color": "#93e7ec",
+                        "color": "#8fefd7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -325,7 +325,7 @@
                     },
 
                     "character": {
-                        "color": "#93e7ec",
+                        "color": "#8fefd7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -404,7 +404,7 @@
                     },
 
                     "property": {
-                        "color": "#e6e6e6",
+                        "color": "#8fefd7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -488,7 +488,7 @@
                     },
 
                     "tag": {
-                        "color": "#93e7ec",
+                        "color": "#8fefd7",
                         "font_style": null,
                         "font_weight": null
                     },
