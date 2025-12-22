@@ -488,6 +488,12 @@
                         "font_weight": null
                     },
 
+                    "lifetime": {
+                        "color": "#eeee91",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+
                     "tag": {
                         "color": "#81bfff",
                         "font_style": null,
@@ -991,6 +997,12 @@
 
                     "variant": {
                         "color": "#ffaf8a",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+
+                    "lifetime": {
+                        "color": "#e6e6e6",
                         "font_style": null,
                         "font_weight": null
                     },
