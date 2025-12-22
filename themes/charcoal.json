@@ -453,7 +453,7 @@
                         "font_weight": null
                     },
                     "punctuation.special": {
-                        "color": "#daa4f9",
+                        "color": "#f98693",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -962,11 +962,6 @@
                     },
                     "punctuation.list_marker": {
                         "color": "#ffaf8a",
-                        "font_style": null,
-                        "font_weight": null
-                    },
-                    "punctuation.special": {
-                        "color": "#daa4f9",
                         "font_style": null,
                         "font_weight": null
                     },
