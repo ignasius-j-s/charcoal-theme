@@ -52,7 +52,8 @@
                 "tab.inactive_background": "#303030",
                 "tab_bar.background": "#292929",
                 "toolbar.background": "#1a1a1a",
-                "search.match_background": "#81bfff",
+                "search.match_background": "#81bfff4a",
+                "search.active_match_background": "#ffbf814a",
 
                 "panel.background": "#202020",
                 "panel.focused_border": "#7f7f7f",
@@ -610,7 +611,8 @@
                 "tab.inactive_background": "#303030",
                 "tab_bar.background": "#292929",
                 "toolbar.background": "#1a1a1a",
-                "search.match_background": "#81bfff",
+                "search.match_background": "#81bfff4a",
+                "search.active_match_background": "#ffbf814a",
 
                 "panel.background": "#202020",
                 "panel.focused_border": "#7f7f7f",
