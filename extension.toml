@@ -1,6 +1,6 @@
 id = "charcoal-theme"
 name = "Charcoal Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 description = "A sleek, dark theme for those who always keep their screen brightness very low"
 repository = "https://github.com/ignasius-j-s/charcoal-theme"
