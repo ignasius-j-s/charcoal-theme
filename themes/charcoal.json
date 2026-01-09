@@ -130,23 +130,23 @@
 
                 "hint": "#808080",
                 "hint.border": "#80c0ff",
-                "hint.background": "#303030",
+                "hint.background": "#183049",
 
                 "info": "#80c0ff",
                 "info.border": "#80c0ff",
-                "info.background": "#303030",
+                "info.background": "#183049",
 
                 "warning": "#ffff80",
                 "warning.border": "#ffff80",
-                "warning.background": "#303030",
+                "warning.background": "#494918",
 
                 "error": "#ff8080",
                 "error.border": "#ff8080",
-                "error.background": "#303030",
+                "error.background": "#491818",
 
                 "success": "#80ff80",
                 "success.border": "#80ff80",
-                "success.background": "#303030",
+                "success.background": "#184918",
 
                 "conflict": "#ffc080",
                 "conflict.border": "#ffc080",
@@ -690,23 +690,23 @@
 
                 "hint": "#808080",
                 "hint.border": "#80c0ff",
-                "hint.background": "#303030",
+                "hint.background": "#183049",
 
                 "info": "#80c0ff",
                 "info.border": "#80c0ff",
-                "info.background": "#303030",
+                "info.background": "#183049",
 
                 "warning": "#ffff80",
                 "warning.border": "#ffff80",
-                "warning.background": "#303030",
+                "warning.background": "#494918",
 
                 "error": "#ff8080",
                 "error.border": "#ff8080",
-                "error.background": "#303030",
+                "error.background": "#491818",
 
                 "success": "#80ff80",
                 "success.border": "#80ff80",
-                "success.background": "#303030",
+                "success.background": "#184918",
 
                 "conflict": "#ffc080",
                 "conflict.border": "#ffc080",
