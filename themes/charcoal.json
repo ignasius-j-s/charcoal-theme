@@ -128,7 +128,7 @@
                 "version_control.conflict_marker.ours": "#80ff801a",
                 "version_control.conflict_marker.theirs": "#80c0ff1a",
 
-                "hint": "#808080",
+                "hint": "#80c0ff",
                 "hint.border": "#80c0ff",
                 "hint.background": "#183049",
 
@@ -688,7 +688,7 @@
                 "version_control.conflict_marker.ours": "#80ff801a",
                 "version_control.conflict_marker.theirs": "#80c0ff1a",
 
-                "hint": "#808080",
+                "hint": "#80c0ff",
                 "hint.border": "#80c0ff",
                 "hint.background": "#183049",
 
